@@ -18,7 +18,7 @@ positively.
 * NPM v9.8.1 amd higher
 * All the packages listed in the `package.json`
 
-### Installing
+### Running locally
 
 * Run `npm install`
 * Run `npm build`
